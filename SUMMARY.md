@@ -9,6 +9,8 @@
   * [2-2. PC와 RaspberryPi 연결](2c7a5-raspberrypi/2-2-pcc640-raspberrypi-c5f0-acb0.md)
 * [3장. STT](3c7a5-stt.md)
 * [4장. TTS](4c7a5-tts.md)
+  * [4-1. 오픈 API 이용 신청](4c7a5-tts/4-1-c624-d508-api-c774-c6a9-c2e0-ccad.md)
+  * [4-2. TTS 사용해보기](4c7a5-tts/4-2-tts-c0ac-c6a9-d574-bcf4-ae30.md)
 * [5장. Chatbot](5c7a5-chatbot.md)
 * [6장. 신경망](c2e0-acbd-b9dd.md)
 * [7장. 텐센플러](7c7a5-d150-c13c-d50c-b7ec.md)
