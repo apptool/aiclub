@@ -6,6 +6,7 @@
   * [1-1. 설치](1c7a5/1-1-c124-ce58.md)
 * [2장. RaspberryPi](2c7a5-raspberrypi.md)
   * [2-1. Raspbian 설치](2c7a5-raspberrypi/2-1-raspbian-c124-ce58.md)
+  * [2-2. PC와 RaspberryPi 연결](2c7a5-raspberrypi/2-2-pcc640-raspberrypi-c5f0-acb0.md)
 * [3장. STT](3c7a5-stt.md)
 * [4장. TTS](4c7a5-tts.md)
 * [5장. Chatbot](5c7a5-chatbot.md)
