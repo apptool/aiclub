@@ -3,6 +3,7 @@
 * [소개](README.md)
 * [목차](baa9-cc28.md)
 * [1장. Python](1c7a5.md)
+  * [1-1. 설치](1c7a5/1-1-c124-ce58.md)
 * [2장. RaspberryPi](2c7a5-raspberrypi.md)
 * [3장. STT](3c7a5-stt.md)
 * [4장. TTS](4c7a5-tts.md)
